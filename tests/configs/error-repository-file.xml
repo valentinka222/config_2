@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <package>A</package>
+    <version>5.1-6ubuntu1</version>
+    <repository>tests/repos/missing.txt</repository>
+    <test-mode>true</test-mode>
+    <output-file>graph.png</output-file>
+    <ascii-tree>true</ascii-tree>
+    <max-depth>3</max-depth>
+    <filter>lib</filter>
+</config>

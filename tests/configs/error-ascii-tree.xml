@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <package>bash</package>
+    <version>5.1-6ubuntu1</version>
+    <repository>http://archive.ubuntu.com/ubuntu</repository>
+    <test-mode>false</test-mode>
+    <output-file>graph.png</output-file>
+    <ascii-tree>mb</ascii-tree>
+    <max-depth>3</max-depth>
+    <filter>lib</filter>
+</config>
